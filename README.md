@@ -15,7 +15,7 @@ researched answers are remembered; and the page offers your usual requests as bu
 Built by [Maria Sukhareva](https://www.linkedin.com/in/msukhareva/) of
 [AI Realist](https://airealist.org).
 
-- Stockwatcher on ClawHub: [clawhub.ai/ktoetotam/skills/stockwatcher](https://clawhub.ai/ktoetotam/skills/stockwatcher) (the skill for OpenClaw)
+- Stockwatcher on ClawHub: [clawhub.ai/ktoetotam/plugins/stockwatcher](https://clawhub.ai/ktoetotam/plugins/stockwatcher) (the plugin for OpenClaw)
 - AI Realist: [airealist.org](https://airealist.org/?utm_source=github) (courses, workshops and registrations)
 - The article: [Building personalised skills](https://msukhareva.substack.com/p/building-personalised-skills-an-agentic) (how and why Stockwatcher was built)
 
